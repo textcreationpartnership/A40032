@@ -371,7 +371,38 @@ the other coast.</p>
                      <div type="sub-subsection">
                         <pb n="9" facs="tcp:54792:5"/>
                         <head>To Illustrate it by an Example.</head>
-                        <figure/>
+                        <p>In a North latitude of 52 gr. 30 min. let the altitude of
+the Sun be 22 gr. and the declination 10 gr. Northerly, By
+these given I would know the Suns Azimuth, the two legs of
+the Triangle are the complements of the latitude and Suns
+altitude, that is 37 gr. 30 min. and 68 gr. the sum of them is
+105 gr. 30 min. the difference is 30 gr. 30 min. The sum of
+them I count on the side BA, from the top at B down to <hi>k,</hi>
+The difference I count on the other side from D down to <hi>h,</hi>
+and to these points <hi>k</hi> and <hi>h,</hi> I apply the threed <hi>k h,</hi> And last<g ref="char:EOLhyphen"/>ly,
+because the de<g ref="char:EOLhyphen"/>clination
+is 10 gr.
+North-ward in a
+North latitude, ther<g ref="char:EOLhyphen"/>fore
+his distance
+from the elevated
+Pole is 80 gr. which I
+count from the top
+D, down to <hi>l,</hi> and
+follow the line at <hi>l,</hi>
+till it meet with the
+threed at <hi>n,</hi> where
+I find the line <hi>m n,</hi> to
+crosse it also, which
+numbred from the
+side DC, whereon
+the difference of the legs was numbred, gives 102 gr 38 m.
+the Azimuth from the North: And so also if it be account<g ref="char:EOLhyphen"/>ed
+from the side BA, it gives the Azimuth from the South
+77 gr. 22 min. the residue of the former, or the complement
+of it to 180 gr.
+<figure/>
+                        </p>
                         <p>
                            <hi>Another Example,</hi> In the same latitude and the same al<g ref="char:EOLhyphen"/>titude,
 and therefore also the same situation, of the threed,
@@ -566,7 +597,32 @@ Sine to the former three.</p>
                   <head>By the Hour of the Day given, with the Suns distance from
 the elevated Pole, and the complement of his altitude above
 the Horizon, to find his Azimuth.</head>
-                  <figure/>
+                  <p>The Azimuth thus gotten is counted in North latitudes from
+the North, in South latitudes from the South. Let the hour
+be 3 from the meridian. The Suns distance from the Pole
+66 gr. 30 min. The complement of the altitude, 44 gr. 20 m.
+By these things known, I would find the Azimuth. The pro<g ref="char:EOLhyphen"/>portion
+whereby it is wrought is this.
+As the Sine of the hour, is to the Sine
+of the complement of the altitude; So
+is the sine of the distance, to the sine of
+the Azimuth. Wherefore upon the side
+of the Square EG, I count the sine
+of 45 gr. to <hi>h,</hi> and upon the line there
+arising, I count the sine of 44 gr.
+20 min. up to <hi>i,</hi> and thereto apply the
+threed. Then upon the same side with
+the first I reckon the sine of the Suns distance 66 gr. 30 min.
+from E to <hi>k,</hi> and following the line there arising till it meet
+with the threed at <hi>n,</hi> I find the line <hi>nl,</hi> to crosse there also,
+which counted from EG, gives the sine of 65 gr. for the fourth
+proportional, so that 65 gr. shewes the residue of the Angle
+required, that is to say, In our North latitude it shewes me
+the Azimuth from the South; because the Angle of the A<g ref="char:EOLhyphen"/>zimuth
+from the North is an obtuse Angle, namely 115 gr.
+and the same sine serves both to it and to 65 gr. his residue.
+<figure/>
+                  </p>
                   <p>¶And here also is to be noted, That when any Proportion in
 right sines alone is offered, and the radius is the first leader
 <pb n="15" facs="tcp:54792:8"/>
@@ -721,7 +777,24 @@ transferre it thither, and find that the line lies even against
 of the fourth proportional term required.</p>
                   <p>2 <hi>As the radius</hi> is to the Tangent of 60 gr. So the sine of
 50 gr. to the Tangents of what?</p>
-                  <figure/>
+                  <p>
+                     <figure/>
+Upon the Square I count (as be<g ref="char:EOLhyphen"/>fore)
+from G up to D and so for<g ref="char:EOLhyphen"/>ward
+to <hi>n,</hi> 60 gr. among the Tan<g ref="char:EOLhyphen"/>gents,
+and thereto apply the threed.
+Then I count the third term. E <hi>b</hi> the
+sine of 50 gr. and I follow the line
+there arising to the top of the Square,
+and yet it meets notwith the threed,
+but beyond the Square I see that it
+would concurre with it at <hi>r,</hi> which
+shewes that the fourth Tangent re<g ref="char:EOLhyphen"/>quired,
+is greater then the Tangent of 45 gr. and therefore
+standing as it doth, cannot be expressed upon the Scale of
+Tangents, wherefore I alter the Proportion, by transposing
+the first and third terms into one anothers places, and for
+the Tangents themselves I take their complement thus.</p>
                   <p>As the sine of 50, is to the Co-tangent of 60, So is the
 Radius, to a fourth Tangent, which will be the complement
 of that which should be produced by the former Proportion.
@@ -843,7 +916,10 @@ BCA is 30 gr. and BD A
 50 grad. therefore their difference
 CBD is 20 gr. Now then, As the
 sine of CB D 20 gr.</p>
-               <figure/>
+               <p>Is to CD 40 feet,
+So is the sine of BDC or BDA, 50 gr.
+<figure/>
+               </p>
                <p>To the length of CB required.</p>
                <p>To resolve this upon the Square, from C, I count the line
 of 20 gr. to <hi>a,</hi> and observe the line there meeting me, then
@@ -885,7 +961,13 @@ it, to find the other Angles.</head>
                <pb n="23" facs="tcp:54792:12"/>
                <head>First, if the Angle comprehended be a Right-angle
 the work is easie.</head>
-               <figure/>
+               <p>ANd here we are to use the Scales of equal parts, with the
+larger Tangents onely. Suppose then in the Rect-angle
+Triangle ABC, By having the two sides including the
+right angle AB 30, BC 20 parts, I would find the angles at A
+and C, because this Proportion holds
+<figure/>
+               </p>
                <p>As AB 30, to BC 20</p>
                <p>So AB the radius to BC,</p>
                <p>The Tangent of BAC.</p>
@@ -923,7 +1005,13 @@ of it, to make it sufficient for <hi>Sea-mens</hi> use.</p>
 As the sum of the two sides, is to their difference,
 So is the Tangent of half the sum of their opposite Angles,
 to the Tangent of the half difference of those Angles.</head>
-               <figure/>
+               <p>AS here, the two given parts, are <hi>AB</hi> 40
+parts, &amp; <hi>BC</hi> 20, the sum of them is 60,
+the difference is 20, the angle at B
+120 gr. &amp; therefore the sum of the two other
+60 gr. the half sum of 30 gr. Now,
+<figure/>
+               </p>
                <p>As 60 the sum of the sides, is to 20 their difference,</p>
                <p>So is the Tangent of 30 gr. the half sum of the angles at
 A and C, to the Tangent of their half difference.</p>
